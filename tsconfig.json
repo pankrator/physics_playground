@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "allowUnreachableCode": true,
+        "outDir": "out",
+        "rootDir": "src"
+    },
+    "watchOptions": {
+      "synchronousWatchDirectory": true
+    },
+    // "files": [
+    //   "src/game.ts",
+    //   "src/paddle.ts",
+    //   "src/floor.ts",
+    //   "src/ball.ts",
+    //   "vector.js",
+    //   "collision.js",
+    //   "new_physics/solver.ts"
+    // ]
+  }
